@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "slug": "rose-poudre",
+          "color": "#f6e7eb",
+          "name": "Rose poudré"
+        },
+        {
+          "slug": "taupe-doux",
+          "color": "#b7a9a0",
+          "name": "Taupe doux"
+        },
+        {
+          "slug": "brun-doux",
+          "color": "#5a4c46",
+          "name": "Brun doux"
+        },
+        {
+          "slug": "dore-clair",
+          "color": "#d4af37",
+          "name": "Doré clair"
+        },
+        {
+          "slug": "dore-fonce",
+          "color": "#b8902e",
+          "name": "Doré foncé"
+        }
+      ]
+    },
+    "typography": {
+      "fontSizes": [
+        {
+          "slug": "petit",
+          "size": "14px",
+          "name": "Petit"
+        },
+        {
+          "slug": "normal",
+          "size": "16px",
+          "name": "Normal"
+        },
+        {
+          "slug": "grand",
+          "size": "20px",
+          "name": "Grand"
+        }
+      ]
+    },
+    "layout": {
+      "contentSize": "800px",
+      "wideSize": "1200px"
+    }
+  }
+}
